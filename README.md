@@ -139,7 +139,7 @@ for (int i = 1; i < 10; i++) {
 
 Imprime:
 ```
-![img_11.png](img_11.png)
+![Ejercicio.png](img_11.png)
 ## 4. WHILE Y DO WHILE. ⚡
 ### While
 El bucle while consta de un bloque de código y una condición. 
@@ -169,7 +169,7 @@ do {
 Este bucle es post-test: en el bucle do-while el código dentro del bloque siempre se ejecuta al
 menos una vez.
 
-<img alt="img_2.png" height="300" src="img_2.png" width="300"/>
+<img alt="meme.png" height="300" src="img_2.png" width="300"/>
 
 ### Ejercicios para practicar
 Ejercicios para prácticar: [ejercicios](https://drive.google.com/file/d/1P4VaWNgxXSEmzS26OqRTq0FLjyOP78Ef/view) 
